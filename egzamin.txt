@@ -1,4 +1,0 @@
-Nazwę systemu operacyjnego: Windows
-Nazwy środowisk programistycznych: IntelliJ Idea, Android Studio
-Nazwę emulatora dla aplikacji mobilnej: emulator Android (Android Studio)
-Nazwy języków programowania: Java
